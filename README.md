@@ -1,0 +1,2 @@
+# sun-autobad
+g++ sun 
