@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Copyright (C) 1995 Free Software Foundation, Inc.
+
+# Package source files
+src/main.c
+src/juliandays.cpp
+src/startime.cpp
+src/equationOfTime.cpp
